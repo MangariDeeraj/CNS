@@ -52,7 +52,7 @@ int main()
     
 }
 ```
-OUTPUT :-
+## OUTPUT :-
 <img width="1823" height="678" alt="image" src="https://github.com/user-attachments/assets/2a1f6600-82fd-4271-9cc8-c8faf781c7bf" />
 
 ## RESULT :-The program was executed successfully.
